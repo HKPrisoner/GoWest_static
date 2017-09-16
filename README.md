@@ -1,0 +1,1 @@
+# GoWest_static
